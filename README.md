@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonwcc
-- 👀 I’m interested in being more healthy, wealthy, pretty, and happy
+- 👀 I’m interested in being more healthier, wealthier, prettier, and happier
 - 🌱 I’m currently learning to be more sexier as well as healthier wealthier, prettier and happier
 - 💞️ I’m looking to collaborate on anything that is related to health, wealth, pretty-face and happiness
 - 📫 How to reach me ... Don't have to. I will look for you ;)
