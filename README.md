@@ -8,6 +8,6 @@
 jasonwcc/jasonwcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## TQ buddy - You just been added into the chart - your presence via ur browser ip. Hmm I love too ur favorite food (via FB posting)
+## TQ buddy - You just been added into the chart - your presence via browser ip. Hmm I love too ur favorite food (via FB posting)
 
 [![Stargazers over time](https://starchart.cc/luckylittle/openshift-cheatsheet.svg)](https://starchart.cc/luckylittle/openshift-cheatsheet)
