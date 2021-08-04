@@ -8,7 +8,7 @@
 jasonwcc/jasonwcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## TQ buddy - Your presence meant so much to me.
+## TQ buddy - years of Stargazers
 
 [![Stargazers over time](https://starchart.cc/jasonwcc/DO288.svg)](https://starchart.cc/jasonwcc/DO288)
 
