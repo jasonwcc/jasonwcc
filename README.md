@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jasonwcc
-- 👀 I’m interested in being more healthier, wealthier, prettier, and happier
-- 🌱 I’m currently learning to be more sexier as well as healthier wealthier, prettier and happier
-- 💞️ I’m looking to collaborate on anything that is related to health, wealth, pretty-face and happiness
-- 📫 How to reach me ... Don't have to. I will look for you ;)
+- 👀 I’m interested in being more healthier, wealthier, and happier
+- 🌱 I’m currently learning to be more sexier 
+- 💞️ I’m looking to collaborate on anything that is related to health, wealth and happiness
 
 <!---
 jasonwcc/jasonwcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
